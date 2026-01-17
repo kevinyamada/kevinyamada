@@ -3,7 +3,7 @@
 🎓 University of Toronto — BSc in Statistics & Mathematics (Minor: History & Philosophy of Science)  
 📍 Toronto, ON | 💼 Seeking **Summer 2026 Data / Analytics Internship**
 
-I work on practical data projects focused on analysis, modeling, and accessibility — including regression analysis, dashboards, and API-backed tools.
+I work on practical data projects focused on analysis, modeling, and accessibility including regression analysis, dashboards, and API-backed tools.
 
 ---
 
