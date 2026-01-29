@@ -1,7 +1,6 @@
 # Kevin Yamada
 
 🎓 University of Toronto — BSc in Statistics & Mathematics (Minor: History & Philosophy of Science)  
-📍 Toronto, ON 
 
 I work on practical data projects focused on analysis, modeling, and accessibility including regression analysis, dashboards, and API backed tools.
 
@@ -18,4 +17,3 @@ I work on practical data projects focused on analysis, modeling, and accessibili
 ## 📫 Reach Me
 📧 kevinyamada.ky@gmail.com  
 🔗 https://linkedin.com/in/kevin-yamada-1307773a4  
-💻 https://github.com/kevinyamada
