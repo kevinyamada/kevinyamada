@@ -8,7 +8,8 @@ I work on practical data projects focused on analysis, modeling, and accessibili
 
 ## 🛠️ Tools & Technologies
 **Languages:** Python, R, SQL  
-**Data:** pandas, NumPy, scikit-learn, Excel, Tableau, Power BI  
+**Data:** pandas, NumPy, scikit-learn, Excel, Tableau, Power BI,
+Powerpoint
 **Web / APIs:** FastAPI, REST, React  
 **Tools:** Git, GitHub, VS Code
 
