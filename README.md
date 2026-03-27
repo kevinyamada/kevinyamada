@@ -1,6 +1,6 @@
 # Kevin Yamada
 
-🎓 University of Toront - BSc in Statistics & Mathematics (Minor: History & Philosophy of Science)  
+🎓 University of Toronto - BSc in Statistics & Mathematics (Minor: History & Philosophy of Science)  
 
 I work on practical data projects focused on analysis, modeling, and accessibility including regression analysis, dashboards, and API backed tools.
 
