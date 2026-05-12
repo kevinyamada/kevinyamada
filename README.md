@@ -17,4 +17,4 @@ Powerpoint
 
 ## 📫 Reach Me
 📧 kevinyamada.ky@gmail.com  
-🔗 https://linkedin.com/in/kevin-yamada-1307773a4  
+🔗 https://www.linkedin.com/in/kevinyamada-uoft/
