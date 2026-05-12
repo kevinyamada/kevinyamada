@@ -1,20 +1,24 @@
 # Kevin Yamada
 
-🎓 University of Toronto - BSc in Statistics & Mathematics (Minor: History & Philosophy of Science)  
+UofT Statistics & Mathematics student focused on data analytics, statistical modeling, and practical ML projects.
 
-I work on practical data projects focused on analysis, modeling, and accessibility including regression analysis, dashboards, and API backed tools. 
+I build projects involving messy data cleaning, predictive modeling, dashboards, SQL workflows, and API-backed tools.
 
----
+## Skills
 
-## 🛠️ Tools & Technologies
 **Languages:** Python, R, SQL  
-**Data:** pandas, NumPy, scikit-learn, Excel, Tableau, Power BI,
-Powerpoint
-**Web / APIs:** FastAPI, REST, React  
-**Tools:** Git, GitHub, VS Code
+**Data/ML:** pandas, NumPy, scikit-learn, glmnet, ggplot2, Excel  
+**Analytics:** Tableau, Power BI, data visualization, regression, hypothesis testing, cross-validation  
+**Tools:** Git, GitHub, VS Code, FastAPI, SQLite  
 
----
+## Featured Projects
 
-## 📫 Reach Me
-📧 kevinyamada.ky@gmail.com  
-🔗 https://www.linkedin.com/in/kevinyamada-uoft/
+- **Insurance Pricing Model:** Built frequency-severity GLM pricing models for student insurance premiums with calibration, credibility shrinkage, and holdout validation.
+- **Type 2 Diabetes Follow-Up Risk Model:** Built a healthcare ML pipeline to identify patients at higher risk of follow-up gaps.
+- **Transit Accessibility App:** Built API-backed transit accessibility tools using FastAPI, SQLite, OpenStreetMap, and OSRM.
+- **Basketball Shot Outcome Prediction:** Engineered biomechanical time-series features and trained ML models for shot prediction.
+
+## Contact
+
+Email: kevinyamada.ky@gmail.com  
+LinkedIn: https://linkedin.com/in/kevinyamada-uoft
