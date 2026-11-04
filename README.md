@@ -1,24 +1,24 @@
 # Kevin Yamada
 
-UofT Statistics & Mathematics student focused on data analytics, statistical modeling, and practical ML projects.
+I'm a Statistics and Mathematics student at the University of Toronto. I work with Python, R, and SQL on data analysis and statistical modelling projects.
 
-I build projects involving messy data cleaning, predictive modeling, dashboards, SQL workflows, and API backed tools.
+I am interested in analytics and machine learning roles where I can work with real data, test ideas, and explain the results clearly.
+
+## Selected projects
+
+| Project | What I worked on | Tools |
+| --- | --- | --- |
+| [Diabetes follow up risk](https://github.com/kevinyamada/Datafest2026) | Team DataFest project using patient journeys and a random forest to study gaps in care | R, DuckDB, ranger |
+| [Insurance pricing](https://github.com/kevinyamada/CAS-Predictive-Modeling-Case-Competition-Pricing-Model) | Claim frequency and severity models with calibration and credibility adjustments | R, GLMs |
+| [Basketball shot outcomes](https://github.com/kevinyamada/basketball-shot-outcome-prediction) | Motion capture features and ridge regression for predicting shot outcomes | Python, scikit learn |
+| [Spotify streaming analysis](https://github.com/kevinyamada/spotify-streaming-analysis) | Regression, model diagnostics, and an examination of what audio features can explain | R, ggplot2 |
 
 ## Skills
 
-**Languages:** Python, R, SQL  
-**Data/ML:** pandas, NumPy, scikit-learn, glmnet, ggplot2, Excel  
-**Analytics:** Tableau, Power BI, data visualization, regression, hypothesis testing, cross-validation  
-**Tools:** Git, GitHub, VS Code, FastAPI, SQLite  
+**Analysis:** Python, R, SQL, pandas, NumPy, scikit learn, ggplot2, regression, and model validation.
 
-## Featured Projects
-
-- **Insurance Pricing Model:** Built frequency severity GLM pricing models for student insurance premiums with calibration, credibility shrinkage, and holdout validation.
-- **Type 2 Diabetes Follow-Up Risk Model:** Built a healthcare ML pipeline to identify patients at higher risk of follow up gaps.
-- **Transit Accessibility App:** Built API backed transit accessibility tools using FastAPI, SQLite, OpenStreetMap, and OSRM.
-- **Basketball Shot Outcome Prediction:** Engineered biomechanical time series features and trained ML models for shot prediction.
+**Tools:** Git, GitHub, VS Code, Excel, Tableau, Power BI, FastAPI, and SQLite.
 
 ## Contact
 
-Email: kevinyamada.ky@gmail.com  
-LinkedIn: https://linkedin.com/in/kevinyamada-uoft
+[LinkedIn](https://www.linkedin.com/in/kevinyamada-uoft/) · [Email](mailto:kevinyamada.ky@gmail.com)
