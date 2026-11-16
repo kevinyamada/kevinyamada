@@ -4,14 +4,15 @@ I'm a Statistics and Mathematics student at the University of Toronto. I work wi
 
 I like taking a question from raw data to a result I can explain, with clear checks on what the evidence supports.
 
-**[Portfolio](https://kevinyamada.github.io/) · [WNBA Shot Atlas](https://kevinyamada.github.io/wnba/) · [LinkedIn](https://www.linkedin.com/in/kevinyamada-uoft/) · [Email](mailto:kevinyamada.ky@gmail.com)**
+**[Portfolio](https://kevinyamada.github.io/) · [WNBA Shot Atlas](https://kevinyamada.github.io/wnba-shot-atlas/) · [Canadian Household Finance](https://kevinyamada.github.io/canadian-household-finance/) · [LinkedIn](https://www.linkedin.com/in/kevinyamada-uoft/) · [Email](mailto:kevinyamada.ky@gmail.com)**
 
 ## Featured work
 
 | Project | What you'll find | Tools |
 | --- | --- | --- |
 | **01 · [Portfolio](https://github.com/kevinyamada/kevinyamada.github.io)** | Live project showcase with code, reports, and interactive work | HTML, CSS, JavaScript |
-| **02 · [WNBA Shot Atlas](https://github.com/kevinyamada/wnba-shot-atlas)** | Interactive shooting maps and spatial model comparisons using 38,535 regular season attempts | Python, JavaScript, spatial statistics |
+| **02 · [WNBA Shot Atlas](https://github.com/kevinyamada/wnba-shot-atlas)** | [Live app](https://kevinyamada.github.io/wnba-shot-atlas/): 38,535 regular-season attempts, Bayesian spatial models, and an event-based possession-value prototype | Python, JavaScript, spatial statistics |
+| **03 · [Canadian Household Finance](https://github.com/kevinyamada/canadian-household-finance)** | [Live project](https://kevinyamada.github.io/canadian-household-finance/): a housing-readiness audit with a provincial map, purchase-cash scenarios, and a downloadable Power BI report | Python, SQL, Power BI |
 | [Diabetes follow-up risk](https://github.com/kevinyamada/Datafest2026) | DataFest 2026 finalist team project: 20,409 patient journeys and outreach risk tiers | R, DuckDB, random forest |
 | [Toronto home price prediction](https://github.com/kevinyamada/datadash-submission) | Team competition project with chronological evaluation on synthetic housing data | Python, LightGBM, CatBoost, spline regression |
 | [AI safety research](https://github.com/kevinyamada/ai-collusion-sprint-2026) | Solo study of monitoring explicit price agreements, plus a separately credited team audit of Dolos | Python, LLM evaluation, Modal |
